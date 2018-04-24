@@ -1,0 +1,14 @@
+{
+  "name": "torch-contract",
+  "version": "1.0.0",
+  "description": "Cryptolympic Torch",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "EtherZues <zues@cryptotorch.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "1.7.0"
+  }
+}

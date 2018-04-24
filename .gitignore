@@ -1,0 +1,9 @@
+node_modules/
+build/
+bk/
+.idea/
+.DS_Store
+other/
+ideas.txt
+notes.txt
+

@@ -1,0 +1,16 @@
+{
+  "extends": "default",
+  "rules": {
+    "avoid-throw": false,
+    "avoid-suicide": "error",
+    "avoid-sha3": "warn",
+    "indent": ["warn", 4],
+    "func-name-mixedcase": false,
+    "func-param-name-mixedcase": false,
+    "var-name-mixedcase": false,
+    "const-name-snakecase": false,
+    "contract-name-camelcase": false,
+    "modifier-name-mixedcase": false,
+    "max-line-length": false
+  }
+}
